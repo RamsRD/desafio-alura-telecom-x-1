@@ -3,15 +3,11 @@
 Este proyecto corresponde al desafío de análisis de datos propuesto en el curso de Alura LATAM y Oracle ONE.  
 El objetivo fue identificar patrones y factores asociados a la evasión (churn) de clientes en una compañía de telecomunicaciones, utilizando métricas y visualizaciones que permitan fundamentar estrategias de retención.
 
----
-
 ## 📌 | Objetivo principal
 Analizar el comportamiento de los clientes para:
 - Determinar los principales factores que influyen en la cancelación del servicio.
 - Explorar la relación entre variables demográficas, contractuales y de uso con la evasión.
 - Proveer información para estrategias de retención más efectivas.
-
----
 
 ## 🧪 | Tecnologías y herramientas usadas
 - **Python**
@@ -19,8 +15,6 @@ Analizar el comportamiento de los clientes para:
 - **Matplotlib**
 - **Google Colab** (entorno de desarrollo)
 - **GitHub** (control de versiones y publicación)
-
----
 
 ## 📷 | Visualizaciones generadas
 Se crearon múltiples gráficos con breves descripciones explicativas:
@@ -42,8 +36,6 @@ Se crearon múltiples gráficos con breves descripciones explicativas:
 
 Entre otros vistos en el archivo.
 
----
-
 ## 📄 | Informe de resultados
 El análisis permitió identificar que:
 - Los contratos mensuales presentan una tasa de evasión significativamente más alta que los contratos de mayor duración.
@@ -52,8 +44,6 @@ El análisis permitió identificar que:
 - Existe una correlación negativa entre la antigüedad del cliente (*tenure*) y la probabilidad de cancelación.
   
 El informe detallado con todos los hallazgos y conclusiones se encuentra incluido dentro del proyecto.
-
----
 
 ## 📝 | Cómo ejecutar
 Clona este repositorio:
